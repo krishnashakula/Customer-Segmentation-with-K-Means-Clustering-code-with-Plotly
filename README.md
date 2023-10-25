@@ -1,4 +1,4 @@
-# K-Means Clustering with Plotly
+# Customer-Segmentation-With-K-Means-Clustering-Code-With-Plotly
 
 Enhanced and interactive data visualization and clustering using K-Means algorithm with Plotly. This repository includes Python code for loading customer data, determining optimal cluster count with an elbow plot, and visualizing clusters using an interactive scatterplot. It's a valuable tool for customer segmentation and data analysis.
 
