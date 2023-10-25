@@ -16,4 +16,5 @@ Enhanced and interactive data visualization and clustering using K-Means algorit
 
 Feel free to customize and use this code for your data clustering and visualization needs. If you find it helpful, consider giving it a star and sharing it with others!
 
-![Interactive Cluster Visualization](link_to_screenshot.png)
+![image](https://github.com/krishna15d/Customer-Segmentation-with-K-Means-Clustering-code-with-Plotly/assets/31175546/91a62602-2b5c-4294-a6af-9c0bdf503596)
+
